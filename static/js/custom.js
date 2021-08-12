@@ -339,7 +339,7 @@
 					strings: [
 						'Full Stack Software Developer',
 						'Pug Mother',
-						'Environmentalist'
+						'Puzzler'
 
 					],
 					breakLines: false
